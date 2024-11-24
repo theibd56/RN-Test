@@ -24,7 +24,11 @@ const styles = StyleSheet.create({
 
     button: {
         fontSize: 20,
-        textDecorationLine: 'underline',
-        color: '#fff',
+        fontWeight: "bold",
+        padding: 10,
+        backgroundColor: "#4caf50",
+        color: "white",
+        borderRadius: 5,
+        marginTop: 20,
     },
 });
